@@ -1,2 +1,2 @@
 # semantic-segmentation
-semantic segmentation for self-car-driving problem
+semantic segmentation using Kmeans and FCM algorithms
